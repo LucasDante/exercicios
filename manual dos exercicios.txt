@@ -1,0 +1,53 @@
+Exercicios 01
+você trabalha em uma financeira e precisa desenvolver um esquema para empréstimo. você deve  perguntar a renda , 
+a idade e o valor que ele quer emprestar. as regras são:
+
+somente aprovar para pessoas entre 21 a 55 anos;
+- renda deve ser superior a 1000 reais;
+- o valor do empréstimo não pode ser maior do que 15x o valor so salário so cidadão;
+-Não emprestamos menos de 500 reais
+Uma vez que o Emprestimo tenha sido aprovado , perguntar em quantas parcelas ele quer pagar o empréstimo. 
+Parcelamos entre 3 e 24 vezes.
+- Calcular e exibir no console que o emprestimo foi aprovado, o numero de parcelas e o valor de cada parcela
+ considerando que
+que nossa taxa de juros é de 8.5%.
+
+Exercicio 02:
+
+Jogo do numero secreto:
+defina um numero (de 1 a 50) uma variavel e construa uma lógica para a pessoa 
+quem está jogando adivinhar esse numero. A pessoa pode chutar um numero, e seu programa deve mostrar:
+-Acertou! se a pessoa acertar o numero
+-ERROU! O NUMERO EERA MENOR! se a pessoa chutar um numero maior
+-ERROU" O NUMERO ERA MAIOR! Se a pessoa chutar um numero menor.
+
+O JOGO SÓ ACABA QUANDO A PESSOA ACERTA.
+
+Bonus: a procurar na internet como gerar um numero de 1 a 50  
+
+Exercicio 03
+voce se formou em arquitetura de escadinhas de console.
+ voce agora é um especialista em usar o console.log para construir escadinhas.
+ voce  deve perguntar ao usuario quantos degraus ele quer na escadinha;
+
+ Exemplo:
+ Escadinha de tamanho 4:
+ #
+ ##
+ ###
+ ####
+  Bonus: perguntar ao usuario o formato do degrau
+
+
+  Exercicio 04
+
+  Haverá uma festa juninha em setembro e temos uma lista de meninos e meninas para dançar a quadrilha
+  !as listas estão assim:["alfredo", "pedro", Anastácio","Waldiney",];
+let meninas = ["alexandria", francisca", "Josefa"," Marinalva",];
+
+voce deve imprimir no console todas as possibilidades de casais para dançar a quadrilha
+
+
+Mostrar no final quantos casais foram formados.
+
+Bonus: A Quadrilha, não tem mais a regra de que o casal tem que ser menino/menina.
